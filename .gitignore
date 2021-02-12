@@ -1,0 +1,6 @@
+.idea/*
+
+db/data/*
+wp/wp-content/*
+
+!**/.gitkeep
